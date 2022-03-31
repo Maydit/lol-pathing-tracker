@@ -5,8 +5,7 @@ Roadmap:
 
 - [ ] Gather data of minimaps of various sizes and champions redorded with fog of war on red, blue, both.
 - [ ] Ensure that position detection correctly works (when a champion is shown it is 100% accurate)
-- [ ] Going to use YOLOv5 for position detection
-- [ ] Gather dataset for YOLOv5 training
+- [ ] Going to use https://github.com/farzaa/DeepLeague for champion location detection
 - [ ] Additional data like rank, in game time, dragon soul, server region?
 - [ ] Attempt to use NLP method of replacing champ positions with <MASK>
 - [ ] Determine a baseline accuracy with no prediction
